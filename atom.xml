@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-12-28T11:49:47.576Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2023：阅读与观影中的这一年</title>
+    <link href="http://example.com/2023/12/28/2023%E9%98%85%E8%AF%BB%E4%B8%8E%E8%A7%82%E5%BD%B1/"/>
+    <id>http://example.com/2023/12/28/2023%E9%98%85%E8%AF%BB%E4%B8%8E%E8%A7%82%E5%BD%B1/</id>
+    <published>2023-12-28T11:44:27.000Z</published>
+    <updated>2023-12-28T11:49:47.576Z</updated>
+    
+    <content type="html"><![CDATA[<p>每次学校放圣诞假的时候，就知道很快可以写年终总结了，毕竟圣诞假往往没有什么能安排的事情来打发这两周漫长的时光。今年因为平时没有写书评或影评来记录这些自己欣赏过的作品，在年底也的确应该写一篇简单的总结了。</p><h2 id="2023的阅读"><a href="#2023的阅读" class="headerlink" title="2023的阅读"></a>2023的阅读</h2><p>也许是因为课业相对更繁忙，今年一共只读了十余本书。当然另一层原因也是近年来华语写作日渐衰弱，而今已到了一年都出版不了几本好书的时候；这一点看今年的理想国文学奖评选也可见一斑。或许阅读作为一个时代，已然是即将落幕了。</p><p>这是我今年的书单：</p><ul><li>《翦商：殷周之变与华夏新生》</li><li>《从大都到上都：在古道上重新发现中国》</li><li>《老派少女购物路线》</li><li>《碌碌有为：微观历史视野下的中国社会与民众》</li><li>《我在北京送快递》</li><li>《置身事内：中国政府与经济发展》</li><li>《故事便利店》</li><li>《旅行之木》</li><li>《东京八平米》</li><li>《阿莱夫》</li><li>《月亮照在阿姆河上》</li><li>《无责任的帝国：近代日本的扩张与毁灭》</li><li>《The Worlds I See》</li></ul><p>我在选书的时候主要依靠的是豆瓣热门以及一些中文播客，所以这些书基本都是今年的大路货了，走进任何一家书店都会摆在显眼的位置。其中也仅有《翦商》一本的内容较为硬核，其余的无非只是炒作或者出版方宣传罢了。比如这本《置身事内》在豆瓣的评分相当高，但整体的风格给人一种避重就轻的感觉，而且在对基层秩序或者地方政府施政的研究上也并未做到客观。</p><h2 id="影视里的2023"><a href="#影视里的2023" class="headerlink" title="影视里的2023"></a>影视里的2023</h2><p>我现在每年的片单体积庞大，也就不在此一一列出；显然，每年的优质影视作品要远远多于新书。其中最推荐的是：</p><ul><li>Poker Face</li><li>Shrinking</li><li>Good Omens S2</li><li>Beef</li><li>Loki S2</li><li>Only Murders in the Building S3</li><li>Rick and Morty S7</li><li>漫长的季节</li><li>宇宙探索编辑部</li><li>Oppenheimer</li></ul><p>作为国产剧，《漫长的季节》应该说是超出很多人想象的；无论是情节本身还是画面的氛围、演员的演技，都可圈可点，现在还没看过的朋友可以试试。Poker Face 有种美国公路片的氛围感，虽然故事本身可能不及其它主打推理的剧那么烧脑，但这种公路旅行般的松弛感以及对世事无常的淡然都足以让人愿意每周追更。Shrinking 是一部相对低成本的剧，但至少在年内应该算是最治愈的美剧了。Good Omens 也是一部比较轻松的短剧，英剧这几年在欧美风头无两，可能真的要超过好莱坞了。R&amp;M 是上周才刚播完S7的，这一季还是和以往一样，既有脑洞又不失轻松愉快，没看过的朋友很建议入坑。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;每次学校放圣诞假的时候，就知道很快可以写年终总结了，毕竟圣诞假往往没有什么能安排的事情来打发这两周漫长的时光。今年因为平时没有写书评或影评来记录这些自己欣赏过的作品，在年底也的确应该写一篇简单的总结了。&lt;/p&gt;
+&lt;h2 id=&quot;2023的阅读&quot;&gt;&lt;a href=&quot;#2023</summary>
+      
+    
+    
+    
+    
+    <category term="分享" scheme="http://example.com/tags/%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2023/12/28/hello-world/"/>
+    <id>http://example.com/2023/12/28/hello-world/</id>
+    <published>2023-12-28T08:58:06.415Z</published>
+    <updated>2023-12-28T08:58:06.415Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
